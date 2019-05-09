@@ -1,1 +1,1 @@
-# PhotoViewerAppSample
+PixabayAPIを使ったフォトビューワアプリです。
