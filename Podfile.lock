@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.8.2)
+  - EAIntroView (2.12.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - SDWebImage (5.0.1):
+    - SDWebImage/Core (= 5.0.1)
+  - SDWebImage/Core (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - EAIntroView
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EAIntroView
+    - EARestrictedScrollView
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  EAIntroView: 249559079ddfdbe80e5bcb755c04c3b964b2ac27
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
+
+PODFILE CHECKSUM: c79f8dd0079ce314d4d86dbb375c6d3f9c7d2ca8
+
+COCOAPODS: 1.6.1
